@@ -1,6 +1,6 @@
 # digi-archives-batch-folder-creator
 
-This script was created for digital archive purposes.  It takes a directory of multiple files and makes a new folder, within that given directory, for each file (or group of files) with the same basename. The new folder will be named with the same basename as its intended files, but with '_folder' added to the end of the name. The purpose of this functionality is to group data files together with their related metadata files, for archival preservation. 
+This script was created for digital archive purposes.  It takes a directory of multiple files and makes a new folder, within that given directory, for each file (or group of files) with the same basename. The new folder will be named with the same basename as its intended files, but with '_folder' added to the end of the name. The purpose of this functionality is to group data files together with their related metadata files for archival preservation. 
 
 Example: If you have two folders in a main directory called:
 
