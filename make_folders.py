@@ -3,6 +3,7 @@
 #data file and metadata file combo with the purpose of organizing files before bagging them for long term preservation with the LoC's Bagger or BagIt.
 #Originaly created 5/24/2018 for WCFTR The Wisconsin Center for Film and Theater Research, for Windows 7 and Python 2.7
 #Built to work with all future operating systems and python versions
+#@author: https://github.com/LauraPoplett
 
 #setup environment
 import os
