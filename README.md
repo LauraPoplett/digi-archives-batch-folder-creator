@@ -10,7 +10,7 @@ Example: If you have two folders in a main directory called:
 
 The resulting folder within the main directory will be named 'unv_speech_aud_folder'. 
 
-Both files are then moved from the main directory into their new, and appropriately named, directory. The result is a separate container/folder for each data file/group and metadata file combo. The original purpose was to organize the files before bagging them for long term preservation with the Library of Congress Bagger software, however, it may be used in any event where separate folders are needed for each file item or group.
+Both files are then moved from the main directory into their new, and appropriately named, directory. The result is a separate container/folder for each data file/group and metadata file combo. The original purpose was to organize the files before bagging them for long term preservation with the Library of Congress Bagger software https://github.com/LibraryOfCongress/bagger, however, it may be used in any event where separate folders are needed for each file item or group.
 
 Requirements for Use:
 1)The data files and their corresponding metadata files must have the same base filename apart from the file extension. 
